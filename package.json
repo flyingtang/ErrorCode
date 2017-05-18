@@ -1,0 +1,23 @@
+{
+  "name": "error-code",
+  "version": "1.0.0",
+  "description": "get error code from xlsx to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txg5214/ErrorCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txg5214/ErrorCode/issues"
+  },
+  "homepage": "https://github.com/txg5214/ErrorCode#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "node-xlsx": "^0.7.4"
+  }
+}
